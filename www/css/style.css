@@ -1,1 +1,28 @@
 /* Empty. Add your own CSS if you like */
+.logo {
+	width: 80%;
+	display: block;
+	margin: 0 auto;
+}
+
+.workStations {
+	width: 30%;
+	display: block;
+	margin: 0 auto;
+}
+
+#startTime {
+	display: none;
+}
+
+#finishTime {
+	display: none;
+}
+
+#firstName {
+	display: none;
+}
+
+#workStation {
+	display: none;
+}
