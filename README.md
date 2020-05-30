@@ -1,5 +1,9 @@
 # SigitStation-App
 
+The application records the beginning and end of working time, pauses, errors, number of parts done, change of working position... The work report is automatically saved to the server in pdf format, printed to one or more printers, and sent to multiple emails.
+
+The application is used in one company in the field of automotive industry.
+
 ![19_1](https://user-images.githubusercontent.com/20281331/83184798-482f9e00-a12a-11ea-88df-bdaa644329eb.png)
 ![19_3](https://user-images.githubusercontent.com/20281331/83184841-57165080-a12a-11ea-95e8-88100a50f2ff.png)
 ![19_4](https://user-images.githubusercontent.com/20281331/83184852-5aa9d780-a12a-11ea-9e49-c8ae3b9ee12e.png)
